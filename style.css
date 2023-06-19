@@ -1,4 +1,27 @@
-body{
-    
-    color: rgb(252, 252, 252);
+ :root {
+    --branco-principal: #FFFFFF;
+    --cinza-secundário: 
+    --botao-azul:
+    --cor-de-fundo:
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ body{
+
+background-image: url(Background.png);
+
 }
+background-repeat: no-repeat;
+background-size: contain;
